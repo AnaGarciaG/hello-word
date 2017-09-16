@@ -1,0 +1,37 @@
+new line on the new file
+
+:s
+
+x
+
+:x
+quit
+
+
+
+
+
+
+
+:q
+
+
+
+jkjk
+
+
+
+
+
+
+
+
+:q
+jkajf sjf ejfjsfkljklfjjfökf
+
+
+
+
+
+dfja
+
